@@ -1,7 +1,0 @@
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\bin\Debug\BlackJack.exe
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\obj\Debug\BlackJack.exe
-D:\001 Work\002 Projects\2018\026_Github\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
